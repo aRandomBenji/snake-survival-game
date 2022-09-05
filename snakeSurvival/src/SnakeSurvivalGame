@@ -1,0 +1,17 @@
+Welcome to Snake Survival Game!
+
+In this adaptation of the traditional Snake game, collect fruit to gain health while trying to escape
+an ever-growing AI snake opponent.
+
+Do you have what it takes to survive?
+
+Controls:
+<  left
+>  right
+^  up
+v  down
+
+
+
+Original game inspired and adapted from Bro Code's Snake Game Tutorial on YouTube:
+https://www.youtube.com/watch?v=bI6e6qjJ8JQ
